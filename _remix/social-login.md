@@ -16,4 +16,4 @@
 πιο εύκολη τη διαδικασία εγγραφής τους.
 
 
-![Image of Social Login](https://github.com/std123924/pibookgr/blob/gh-pages/images/social-login.jpg?raw=true)
+![Image of Social Login](https://github.com/std123924/pibookgr/blob/gh-pages/images/social-login.jpg)
