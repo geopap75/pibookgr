@@ -1,8 +1,8 @@
 ---
-author: epidrome
-image_url: /images/minecraft.png
-caption: Η ιδέα να δημιουργούνται πίστες από τους τελικούς χρήστες δεν είναι καινούρια και έχει δοκιμαστεί με επιτυχία σε αρκετά παιχνίδια ως πρόσθετη λειτουργία. Το Minecraft είναι από την αρχή σχεδιασμένο με σκοπό οι τελικοί χρήστες να σχεδιάζουν τον εικονικό κόσμο.
-title: minecraft
+author: geopap75
+image_url: /images/jacob-goldman.png
+caption: Ο Jacob E. [1] Ο "Jack" Goldman (18 Ιουλίου 1921 - 20 Δεκεμβρίου 2011) ήταν Αμερικανός φυσικός και πρώην επικεφαλής επιστήμονας της Xerox Corporation η οποία παρήγαγε πολλές σημαντικές ιδέες στον σύγχρονο υπολογισμό(computing).
+title: Jacob Goldman
 categories:
   - definition
 ---
